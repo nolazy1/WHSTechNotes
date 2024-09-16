@@ -1,4 +1,4 @@
-# WHSTechNotes
+# WHSTechNotes:
 # September 10, 2024: 
 this is a sample entry!
 # September 13, 2024: 
