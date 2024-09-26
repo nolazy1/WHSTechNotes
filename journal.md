@@ -5,5 +5,5 @@ this is a sample entry!
 i didnt see anything wrong with the instructions i was able to get most of it done and delt with, it does help that i did do it once before but i think you did fine.
 # September 17, 2024 
 This is a free week
-# Se[te,ber 24, 2024 
-This is a free week
+# September 25, 2024 
+.....
