@@ -10,4 +10,4 @@ Precision is very important as some things cant work without percice sets of num
 Steps or details missing in coding can cause many errors and problems that could lead to problems that were not there before. 
 Attention to detail can make the difference in something working or something falling apart so adding attention to detail could be a very helpful thing for some problems.
 # October 1, 2024
-.
+computer science is very important for the games i wanna play after i go home from school/work, people need to keep up on the games and things constantly break so they have to use computer science to fix it all.
