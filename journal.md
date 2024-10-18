@@ -13,3 +13,5 @@ Attention to detail can make the difference in something working or something fa
 computer science is very important for the games i wanna play after i go home from school/work, people need to keep up on the games and things constantly break so they have to use computer science to fix it all.
 # October 7, 2024
 nil
+# October 16, 2024
+nil 
