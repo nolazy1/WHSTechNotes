@@ -15,3 +15,5 @@ computer science is very important for the games i wanna play after i go home fr
 nil
 # October 16, 2024
 nil 
+# October 21, 2024 
+...
