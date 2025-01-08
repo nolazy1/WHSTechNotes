@@ -18,3 +18,6 @@ nil
 # October 21, 2024 
 ...
 # December 12, 2024
+.
+# January 8, 2025
+the most enjoyable part of the class is the free pacing we can do from slow to faster if needed, ive seen nothing that needs to be improved, theres not a lot ive been wanting to find out about and i have been trying to think about other subjects to look into while here, i am not that interested in pursuing any further certifications that may relate to this class. 
