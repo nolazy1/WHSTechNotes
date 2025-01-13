@@ -21,3 +21,5 @@ nil
 .
 # January 8, 2025
 the most enjoyable part of the class is the free pacing we can do from slow to faster if needed, ive seen nothing that needs to be improved, theres not a lot ive been wanting to find out about and i have been trying to think about other subjects to look into while here, i am not that interested in pursuing any further certifications that may relate to this class. 
+# January 13, 2025 
+i do think that ai can be very helpful and something great to use at times but i dont think we should slow down normal tech roles for only ai, i do think ai could be useful but we also need to continue finding more and more before diving deep into only ai work, now i do think ai can have small bad sides but i dont think its in any current situation that i know of that could be causing many issues. 
