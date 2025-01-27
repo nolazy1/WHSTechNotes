@@ -24,7 +24,9 @@ the most enjoyable part of the class is the free pacing we can do from slow to f
 # January 13, 2025 
 i do think that ai can be very helpful and something great to use at times but i dont think we should slow down normal tech roles for only ai, i do think ai could be useful but we also need to continue finding more and more before diving deep into only ai work, now i do think ai can have small bad sides but i dont think its in any current situation that i know of that could be causing many issues. 
 # January 27, 2025
-| Syntax      | Description | Test Text     |
+| Name      | Car | Mistake     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Jimmy      | Honda Civic       | Drilled hole in gas tank   |
+| Kayla   | GMC Sierra        | fixed wrong problem      |
+| Bart      | Toyota corolla  | left stains on carpet   |
+| Harrison   | Subaru Forester | left the oil cap off      |
