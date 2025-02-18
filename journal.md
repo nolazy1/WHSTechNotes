@@ -30,3 +30,5 @@ i do think that ai can be very helpful and something great to use at times but i
 | Kayla   | GMC Sierra        | fixed wrong problem      |
 | Bart      | Toyota corolla  | left stains on carpet   |
 | Harrison   | Subaru Forester | left the oil cap off      |
+# February 18, 2025 
+learned how quickly a subject can change in a major conversation with others, sometimes you will be chating about one thing to just see the entire group start talking about something compleatly different with no way of going back to the original topic
